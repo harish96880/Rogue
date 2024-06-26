@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "c2394f2618c33e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e48d85baa4c70849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06b77786dd59b8da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f385fd147f8d821",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd45af3644ab2f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390f7dc9a78b0646",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d0e4200397d892c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#builder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e42b92c1c1c2dc1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fee996850e0db06",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b6b1e36d59475e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0188981822243ecd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa364a555cc6661b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52e4e8bffae79f9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "678fe905c782da91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "390f7dc9a78b0646",
+  "lastOpenFiles": [
+    "Solartis KT/Change Version.md",
+    "General/Study 26-06-2024.md",
+    "General/Study 18-06-2024.md",
+    "General/Problem Solving - Patterns.md",
+    "Solartis KT/Work.md",
+    "System Design/Overview.md",
+    "General/Algorithms.md",
+    "System Design",
+    "General/Study 17-06-2024.md",
+    "General/Java.md",
+    "Solartis KT/Environments.md",
+    "React/React works behind the scene.md",
+    "React/useReducer().md",
+    "Solartis KT/Platforms and Applications.md",
+    "React/Effects and data fetching.md",
+    "Pasted image 20240502144929.png",
+    "Untitled 1.md",
+    "Solartis KT",
+    "React/Routing.md",
+    "React/Images/Pasted image 20240411101943.png",
+    "React/Images",
+    "React/Images/Pasted image 20240412174338.png",
+    "React/Images/Pasted image 20240412172307.png",
+    "React/Images/Pasted image 20240412100709.png",
+    "React/Images/Pasted image 20240411125918.png",
+    "React/Images/Pasted image 20240411125037.png",
+    "React/Images/Pasted image 20240411115319.png",
+    "React/Images/Pasted image 20240411112757.png",
+    "React/Images/Pasted image 20240411112028.png",
+    "Technology/Note.md",
+    "Fdf.md",
+    "Untitled.canvas",
+    "React.md",
+    "Technology",
+    "General",
+    "React",
+    "Welcome.md"
+  ]
+}
