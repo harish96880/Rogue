@@ -11,8 +11,12 @@
             "id": "06b77786dd59b8da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "System Design/3. Monolithic Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Design/3. Monolithic Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Design/3. Monolithic Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "System Design/3. Monolithic Architecture.md"
+              }
             }
           }
         ]
@@ -138,24 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "390f7dc9a78b0646",
+  "active": "06b77786dd59b8da",
   "lastOpenFiles": [
+    "System Design/2. Components of System Design.md",
+    "System Design/3. Monolithic Architecture.md",
+    "System Design/1. Overview.md",
+    "Pasted image 20240502144929.png",
+    "General/Algorithms.md",
+    "General/Java.md",
     "Solartis KT/Change Version.md",
     "General/Study 26-06-2024.md",
     "General/Study 18-06-2024.md",
     "General/Problem Solving - Patterns.md",
     "Solartis KT/Work.md",
-    "System Design/Overview.md",
-    "General/Algorithms.md",
     "System Design",
     "General/Study 17-06-2024.md",
-    "General/Java.md",
     "Solartis KT/Environments.md",
     "React/React works behind the scene.md",
     "React/useReducer().md",
     "Solartis KT/Platforms and Applications.md",
     "React/Effects and data fetching.md",
-    "Pasted image 20240502144929.png",
     "Untitled 1.md",
     "Solartis KT",
     "React/Routing.md",
