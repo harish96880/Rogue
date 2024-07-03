@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/3. Monolithic Architecture.md",
+                "file": "System Design/4. Understanding Scalability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/3. Monolithic Architecture.md",
+                "file": "System Design/4. Understanding Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/3. Monolithic Architecture.md",
+                "file": "System Design/4. Understanding Scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/3. Monolithic Architecture.md"
+                "file": "System Design/4. Understanding Scalability.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "06b77786dd59b8da",
   "lastOpenFiles": [
-    "System Design/2. Components of System Design.md",
     "System Design/3. Monolithic Architecture.md",
+    "System Design/2. Components of System Design.md",
     "System Design/1. Overview.md",
+    "System Design/4. Understanding Scalability.md",
+    "Solartis KT/Change Version.md",
     "Pasted image 20240502144929.png",
     "General/Algorithms.md",
     "General/Java.md",
-    "Solartis KT/Change Version.md",
     "General/Study 26-06-2024.md",
     "General/Study 18-06-2024.md",
     "General/Problem Solving - Patterns.md",
