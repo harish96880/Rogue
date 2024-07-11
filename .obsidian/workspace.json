@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e48d85baa4c70849",
+        "id": "ec84982ea5658226",
         "type": "tabs",
         "children": [
           {
-            "id": "06b77786dd59b8da",
+            "id": "9246e3eca2cbe7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Study 26-06-2024.md",
+                "file": "Solartis KT/Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Study 26-06-2024.md",
+                "file": "Solartis KT/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Study 26-06-2024.md",
+                "file": "Solartis KT/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Study 26-06-2024.md"
+                "file": "Solartis KT/Work.md"
               }
             }
           }
@@ -146,26 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06b77786dd59b8da",
+  "active": "9246e3eca2cbe7ee",
   "lastOpenFiles": [
+    "Solartis KT/Event Action.md",
+    "Solartis KT/Environments.md",
+    "Solartis KT/Common Practices.md",
+    "Solartis KT/Change Version.md",
+    "Solartis KT/API DOC/SWP_FindAgency.md",
+    "Solartis KT/Work.md",
+    "Solartis KT/Platforms and Applications.md",
+    "Solartis KT/API DOC",
+    "General/Study 26-06-2024.md",
     "System Design/1. Overview.md",
     "System Design/4. Understanding Scalability.md",
     "System Design/3. Monolithic Architecture.md",
     "System Design/2. Components of System Design.md",
-    "Solartis KT/Change Version.md",
     "Pasted image 20240502144929.png",
     "General/Algorithms.md",
     "General/Java.md",
-    "General/Study 26-06-2024.md",
     "General/Study 18-06-2024.md",
     "General/Problem Solving - Patterns.md",
-    "Solartis KT/Work.md",
     "System Design",
     "General/Study 17-06-2024.md",
-    "Solartis KT/Environments.md",
     "React/React works behind the scene.md",
     "React/useReducer().md",
-    "Solartis KT/Platforms and Applications.md",
     "React/Effects and data fetching.md",
     "Untitled 1.md",
     "Solartis KT",

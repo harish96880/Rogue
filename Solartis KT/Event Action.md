@@ -1,0 +1,3 @@
+#solartis #soalrtis_api
+
+	Let's assume a scenario where you created an API with versioning as v1, and later another person will create the next version of the API. If you hardcode details like the event name into the request detail map, it will be difficult for that person to recreate it, wasting time and resources. To avoid this, we've created an event action that remains consistent across all API versions.

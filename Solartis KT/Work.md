@@ -25,3 +25,8 @@ platformExtendedSupport.updatePerformanceList(requestDetailMap);
 platformExtendedSupport.handleCatchBlockExceptionKeys(requestDetailMap,exception);
 ```
 This SQL query retrieves data from four tables: `CNF_OBJECT_SCRIPTS`, `CNF_GET_DATA_SCRIPTS_ASSTN` , `CNF_GET_DATA_CHILD`, and `CNF_GET_DATA_MASTER` . It links these tables using join operations based on their respective IDs (`CNF_OBJECT_SCRIPTS_ID`, `CNF_GET_DATA_CHILD_ID`, and `CNF_GET_DATA_MASTER_ID`). The query filters the results to only include rows where `m.NAME` equals "${master_name}$" and `c.NAME` equals ''. This structured approach ensures that data related to script objects, data associations, child data, and master data is retrieved specifically for entries related to validation of request key information within the specified context.
+
+### Performance List
+#performance_list
+
+	It is a java class which is user defined. In Solartis, we use performance list to analyze the performance of the API, Which is used to optimize the code and helps to write an efficient code.
